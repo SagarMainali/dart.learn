@@ -1,0 +1,8 @@
+9. “Multiple inheritance in Dart can be achieved through interface in Dart.” Justify
+this statement.
+
+10.Discuss the importance of the following in the object oriented programming
+paradigm.
+● Inheritance:
+● Abstract Class:
+● Interface:
